@@ -1,6 +1,6 @@
 # 📁 File Reporter
 
-A PowerShell script that reports file metadata via a graphical user interface.
+A PowerShell script that reports file metadata via a graphical user interface. This script also returns a comma-separated values (CSV) file which can be imported into a spreadsheet.
 
 ## Licensing
 
