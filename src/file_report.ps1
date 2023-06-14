@@ -1,5 +1,5 @@
 $Size = 100*1024*1024 # 100 Megabytes (MB) threshold.
-$Path = [Environment]::GetFolderPath("Desktop")+"\report.csv"
+$Path = [Environment]::GetFolderPath("Desktop")+"\file_report.csv"
 $Title = "C:\Windows" # Graphical user interface title.
 $Folder = "C:\Windows"
 
